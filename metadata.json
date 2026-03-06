@@ -1,0 +1,5 @@
+{
+  "name": "Balcia Vehicle Segment AI",
+  "description": "Narzędzie AI do automatycznego rozpoznawania segmentu pojazdu na podstawie zdjęcia.",
+  "requestFramePermissions": []
+}
